@@ -1,4 +1,16 @@
+# 💫 Hi 👋, I'm Midhun Sujith Nair
+**A passionate Cloud Engineer || DevOps Engineer || Kafka Admin from India**
 
+Email Me 👉 ✉️ **alamimran613@live.com** For Collaboration/Project or Anything Else. 😊😊
+
+- 🔭 **I’m currently working on:** Enter your project info here
+- 🌱 **I’m currently learning:** Enter your tech here
+- 👯 **I’m looking to collaborate on:** Enter your project name and info
+- 🤔 **I’m looking for help with:** Your project here
+- 💬 **Ask me about:** Collaboration, Tech Support
+- 📫 **How to reach me:** Enter your email here
+- 😄 **Pronouns:** Imran Sir
+- ⚡ **Fun fact:** I Love Tech and Tech Love Me
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_midhun_42) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/midhunsujithnair) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@Midhun_Sujith) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:midhunsujith42@gmail.com) 
 
@@ -11,6 +23,12 @@
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=midhun122&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
+<!-- Snake Game Repo View -->
+
+<div align="center">
+  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+</div>
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
