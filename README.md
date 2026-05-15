@@ -1,16 +1,17 @@
 # 💫 Hi 👋, I'm Midhun Sujith Nair
-**A passionate Cloud Engineer || DevOps Engineer || Kafka Admin from India**
+🚀 Passionate BCA Student | Web Developer | AI & Tech Enthusiast from India 🇮🇳
 
-Email Me 👉 ✉️ **alamimran613@live.com** For Collaboration/Project or Anything Else. 😊😊
+💻 Exploring Web Development, AI, and Modern Technologies while building real-world projects.
 
-- 🔭 **I’m currently working on:** Enter your project info here
-- 🌱 **I’m currently learning:** Enter your tech here
-- 👯 **I’m looking to collaborate on:** Enter your project name and info
-- 🤔 **I’m looking for help with:** Your project here
-- 💬 **Ask me about:** Collaboration, Tech Support
-- 📫 **How to reach me:** Enter your email here
-- 😄 **Pronouns:** Imran Sir
-- ⚡ **Fun fact:** I Love Tech and Tech Love Me
+* 🔭 Currently working on: Improving my web development & AI skills
+* 🌱 Currently learning: React, JavaScript, AI Tools & Modern Web Tech
+* 👯 Looking to collaborate on: Web development, AI, and startup ideas
+* 🤔 Looking for help with: Advanced React, Backend Development & AI Integration
+* 💬 Ask me about: Web Dev, AI Tools, Tech Events & Creative Ideas
+* 📫 Reach me at: midhunsujith42@gmail.com
+* 😄 Pronouns: He/Him
+* ⚡ Fun fact: I want to build tech that creates real impact 🚀
+
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_midhun_42) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/midhunsujithnair) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@Midhun_Sujith) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:midhunsujith42@gmail.com) 
 
