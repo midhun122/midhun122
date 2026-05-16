@@ -41,7 +41,9 @@
 
 ---
 
-  ![](https://komarev.com/ghpvc/?username=midhun122)
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=midhun122" />
+</p>
 
   ## 💰 You can help me by Donating
   [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/midhun42) 
